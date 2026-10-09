@@ -1,0 +1,6 @@
+{
+  "name": "CzechNews Pulse - Agregátor zpráv & AI souhrny",
+  "description": "Přehledný zpravodajský feed agregující Seznam Zprávy, Novinky, Deník N a další v reálném čase s filtrováním, ukládáním článků, notifikacemi a AI shrnutím.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

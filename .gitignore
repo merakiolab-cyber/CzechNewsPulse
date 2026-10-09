@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build and production output
+dist/
+build/
+server.js
+coverage/
+
+# Environment files and credentials (CRITICAL FOR GITHUB)
+.env*
+!.env.example
+*.pem
+*.key
+*.cert
+*.pfx
+*.p12
+
+# Logs and runtime caches
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
