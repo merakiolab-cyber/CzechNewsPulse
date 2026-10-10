@@ -2,6 +2,9 @@
 
 Nezávislý agregátor českých médií a tiskový monitor v reálném čase.
 
+![CzechNews Pulse - Přehled](assets/screen1.png)
+![CzechNews Pulse - Detail](assets/screen2.png)
+
 ## Přehled
 
 CzechNews Pulse shromažďuje a v reálném čase kategorizuje zprávy z předních českých médií a deníků. Aplikace umožňuje číst články v plném znění bez rušivých reklam, ukládat články do záložek, filtrovat dle rubrik i konkrétních zdrojů a personalizovat feed.
